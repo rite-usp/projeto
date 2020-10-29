@@ -1,0 +1,2546 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2020-10-29">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="modularity_class" title="Modularity Class" type="integer">
+        <default>0</default>
+      </attribute>
+    </attributes>
+    <nodes>
+      <node id="1" label="filme histórico de cidade">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="2299.345" y="-2011.7329"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="2" label="imagem histórica de cidade">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-4376.3677" y="663.3931"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="3" label="patrimônio">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="2662.9329" y="-1030.9282"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="4" label="análise documentária">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="4723.5986" y="-3221.164"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="5" label="organização do conhecimento">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1013.7684" y="-3820.0432"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="6" label="web semântica">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="2941.128" y="-4734.6245"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="7" label="Linked open Data">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-3532.2354" y="1490.7963"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="8" label="wikidata">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1314.4999" y="1647.0253"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="9" label="plataformas digitais">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="418.26147" y="1689.4349"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="10" label="mãoagem (trabalho manual)">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-2055.869" y="3792.1921"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="11" label="representação arquitetônica">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-5422.618" y="-906.9631"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="12" label="projeto arquitetônico">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-2478.7153" y="-4222.4814"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="13" label="teoria">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="217.3754" y="4221.1416"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="14" label="aprendizagem">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-396.67734" y="-893.43115"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="15" label="inteligência sensorial motora">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="29.792046" y="-414.7587"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="16" label="cognição">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="114.98091" y="-1232.1262"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="17" label="enativismo">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1294.5988" y="3757.019"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="18" label="semiótica">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1305.7197" y="175.34828"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="19" label="linguística">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1603.5133" y="-3661.2869"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="20" label="linguagem">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1005.586" y="852.4775"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="21" label="arquitetura moderna">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="4207.524" y="1721.2037"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="22" label="difusão da arquitetura">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1844.1174" y="4850.7456"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="23" label="humanidades digitais">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-74.698135" y="-5097.4775"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="24" label="intercâmbios culturais">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="2612.006" y="-2539.1184"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="25" label="zoonoses">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="754.76904" y="-1341.5156"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="26" label="experiência de paisagem">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1240.2557" y="2661.0618"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="27" label="imageria urbana">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-202.66298" y="186.38937"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="28" label="urbanismo sanitarista">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="4835.1445" y="-66.57941"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="29" label="relação humano-animal">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="2262.564" y="-3049.9316"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="30" label="imaginário">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="3711.2778" y="1363.7858"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="31" label="paisagem">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="2780.8923" y="-1631.8395"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="32" label="inteligência artificial">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1763.8826" y="2171.7544"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="33" label="computação">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-4004.0173" y="1878.5012"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="34" label="alteridade">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1546.7543" y="3376.4983"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="35" label="máquinas inteligentes">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-3057.6335" y="1106.1853"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="36" label="IA de-colonial">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="3997.2302" y="2303.676"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="37" label="realidade sociotécnica">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="2704.144" y="1016.09454"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="38" label="processo participativo">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="3502.5063" y="1944.676"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="39" label="futuros possíveis">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-2247.869" y="2563.8499"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="40" label="design prospectivo">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="2214.1096" y="3124.49"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="41" label="processos projetuais">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="4486.9146" y="-567.32635"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="42" label="arquivos pessoais">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1623.8829" y="-2117.8567"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="43" label="representação de arquivos">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-5275.943" y="163.74704"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="44" label="arquivos de cientistas">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="527.499" y="-772.5556"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="45" label="Instituto Butantan">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-643.57086" y="-3546.6091"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="46" label="memória da ciência">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-3466.0303" y="-3063.3018"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="47" label="história das ciências">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="4553.178" y="-1406.8843"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="48" label="patrimônio científico">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1372.9358" y="-1425.5197"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="49" label="descrição arquivística">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1944.8274" y="58.663628"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="50" label="organização da informação">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-3546.4434" y="3852.402"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="51" label="recuperação de dados">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-581.30115" y="-2854.0203"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="52" label="Santos">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-3698.2573" y="-638.4495"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="53" label="neoclássico">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="4297.0645" y="2837.568"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="54" label="arquitetura">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1039.2677" y="-1939.5801"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="55" label="arqueologia histórica">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="143.11743" y="-4523.488"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="56" label="casa de frontaria azulejada">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-101.24361" y="-1533.4827"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="57" label="fachada">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1420.0822" y="-4363.8774"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="58" label="1865">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-4230.7812" y="-338.2132"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="59" label="restauro">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="610.2339" y="1108.438"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="60" label="tombamento">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-4977.124" y="-1323.8562"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="61" label="representações">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="3729.1287" y="457.06937"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="62" label="tecnologia">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1235.163" y="4916.2163"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="63" label="representação gráfica">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="382.06018" y="3287.1794"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="64" label="modelagem tridimensional">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-2510.0857" y="-972.16833"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="65" label="desenho">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-3451.9336" y="-79.06896"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="66" label="didática">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="3380.8489" y="-43.798958"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="67" label="educação gráfica">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="2098.3257" y="1102.9669"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="68" label="pedagogia universitária">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-776.75586" y="1945.5841"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="69" label="ambientes digitais">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="828.8865" y="2144.9973"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="70" label="arquigrafia">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-3441.8542" y="-1196.41"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="71" label="busca da informação">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="549.6942" y="-4980.993"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="72" label="plataforma colaborativa">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="3855.2444" y="-3555.4146"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="73" label="aprendizagem na web">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="2977.1094" y="4075.1157"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="74" label="pesquisa na web">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1932.3861" y="1583.6099"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="75" label="pesquisa educativa">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="4776.1196" y="-2320.7424"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="76" label="ambientes web">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1535.9675" y="-396.6447"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="77" label="comportamento informacional">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="5028.816" y="-920.17596"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="78" label="fontes de informação">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1903.3817" y="3692.6665"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="79" label="movimento maker">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1189.9208" y="2396.006"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="80" label="tinkering">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1019.0712" y="1563.9008"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="81" label="aprendizagem criativa">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="28.247543" y="-1939.7563"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="82" label="construtivismo">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-2288.3018" y="223.77446"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="83" label="construcionismo">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-23.794382" y="2831.621"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="84" label="cognição corporificada">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-4978.3887" y="1921.9437"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="85" label="enação">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1733.4102" y="-2779.216"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="86" label="pedagogia de arquitetura">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-2794.2732" y="560.70624"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="87" label="educação">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1567.36" y="4305.4604"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="88" label="ensino">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="2835.3276" y="2079.4805"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="89" label="ensino de projeto">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="3594.2156" y="-3238.6367"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="90" label="avaliação de cursos">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-623.6454" y="1342.8501"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="91" label="ensino remoto">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="582.5143" y="-3382.4038"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="92" label="qualidade acadêmica">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-4617.0337" y="99.70564"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="93" label="metodologias de ensino">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1975.8885" y="-4172.251"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="94" label="espaço acadêmico">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-3061.919" y="-684.7959"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="95" label="coleções digitais">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="3268.761" y="2510.8833"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="96" label="arte">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="4076.7878" y="-1022.08185"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="97" label="museus">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1760.7043" y="-963.86597"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="98" label="bibliotecas">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="398.90762" y="71.54497"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="99" label="metadados">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="2314.8953" y="-3664.0442"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="100" label="tratamento temático">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="681.43933" y="3819.9412"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="101" label="história da arte">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="2946.0244" y="406.53284"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="102" label="informação em arte">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="493.63144" y="4765.9966"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="103" label="indexação">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-490.56702" y="3228.376"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="104" label="project thinking">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="806.51215" y="530.73096"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="105" label="ensino superior">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-3362.1914" y="-1841.5796"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="106" label="habilidades de projeto">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="226.11253" y="2271.7083"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="107" label="design">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1319.1302" y="-2428.659"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="108" label="natureza">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="990.9503" y="3224.7073"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="109" label="cultura">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="630.938" y="2728.647"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="110" label="antropoceno">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-568.3116" y="4061.6577"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="111" label="cidade-mundo">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="2476.5615" y="1585.4471"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="112" label="cosmos">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-4219.128" y="3354.0989"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="113" label="povos indígenas">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1645.2194" y="-3052.1855"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="114" label="floresta">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-2707.2407" y="-2040.588"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="115" label="terrestre">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-2377.3164" y="4312.582"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="116" label="ensino de projeto">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-2966.5676" y="-3855.7917"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="117" label="representação e desenho">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-5034.4966" y="728.7418"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="118" label="extensão universitária">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-2618.0999" y="3554.7715"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="119" label="prática profissional">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-463.4705" y="-4622.852"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="120" label="arquitetura moderna">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-2391.2998" y="-3615.4307"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="121" label="fotógrafos de arquitetura">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-4393.6094" y="2905.1475"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="122" label="fotografia">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1037.1321" y="-2970.442"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="123" label="imaginário sobre arquitetura brasileira">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="4600.738" y="2190.0842"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="124" label="revistas de arquitetura">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1172.5576" y="-2538.479"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="125" label="levantamento dos fotógrafos">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="5140.582" y="-1234.7273"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="126" label="mapeamento de fotógrafos">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-4945.5234" y="1302.1582"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="127" label="imagens da arquitetura brasileira">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1359.712" y="-1426.6903"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="128" label="modernismo">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-3196.4844" y="3346.8965"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="129" label="imaginário trágico">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-3915.7515" y="2522.2246"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="130" label="modernismo brasileiro">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="767.6717" y="5314.067"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="131" label="imaginário do modernismo">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="4925.062" y="-1938.2751"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="132" label="desenvolvimentismo">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-3817.0542" y="3147.246"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="133" label="arquitetura do desenvolvimentismo">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-830.7348" y="262.9919"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="134" label="urbanismo do desenvolvimentismo">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-5040.509" y="-428.5421"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="135" label="discursos">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-4475.6553" y="2269.155"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="136" label="historiografia">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-4060.744" y="-3213.085"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="137" label="imagem do arquiteto">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-4591.5596" y="-846.48663"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="138" label="atuação profissional">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-3043.477" y="-4462.9727"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="139" label="ensino de arquitetura">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1567.6945" y="1089.8491"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="140" label="estereótipo">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1980.7622" y="-4785.4556"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="141" label="campo simbólico">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-3439.4827" y="517.45544"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="142" label="Belém-PA">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="4678.17" y="3493.5503"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="143" label="tradução">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="4140.8535" y="917.39136"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="144" label="anacronismo">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1056.8488" y="2993.3618"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="145" label="fenomenologia">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-244.74553" y="-4050.0996"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="146" label="memória">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1598.9819" y="3160.9294"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="147" label="Palácio de Landi">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1391.0703" y="4341.9404"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="148" label="etnografia">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="5435.929" y="39.79584"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="149" label="imagem">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1628.7471" y="1495.183"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="150" label="identidade do arquiteto">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="2895.5862" y="3001.462"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="151" label="posicionamento de mercado">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-4514.3286" y="-2250.0645"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="152" label="marketing">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-589.2546" y="-2352.0195"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="153" label="valores profissionais">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="3961.3596" y="-277.0531"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="154" label="canvas">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="3083.0303" y="1494.9893"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="155" label="toolkits">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="2622.5005" y="-4209.946"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="156" label="expectativa do cliente">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1991.0973" y="-4602.477"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="157" label="gestão arquitetônica">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="204.38225" y="652.5671"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="158" label="relação arquiteto-cliente">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-4054.427" y="-1139.8353"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="159" label="projeto">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="359.0518" y="-3950.4321"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="160" label="ideação">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="2044.278" y="2020.1533"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="161" label="Enric Miralles">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1777.9834" y="-113.672844"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="162" label="estudo de caso">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-2118.981" y="4875.1353"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="163" label="croqui">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="22.740099" y="-2318.8464"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="164" label="normalização">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="2647.2349" y="3559.0376"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="165" label="arquivos">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-2841.9612" y="-69.371155"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="166" label="gestão de documentos">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="3324.3342" y="-4146.951"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="167" label="destinação">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1908.9083" y="-3991.6042"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="168" label="documentos de arquivo">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-2178.7937" y="826.1687"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="169" label="documento digital">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-2720.5906" y="2950.8337"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="170" label="iso">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-2303.5376" y="-3010.965"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="171" label="abnt">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="959.91223" y="4368.7866"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="172" label="corpo">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1606.5939" y="-705.37427"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="173" label="corporeidade">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-2143.3582" y="-1790.8877"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="174" label="casa">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1219.0525" y="980.9476"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="175" label="habitar">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-3955.7554" y="-1993.0681"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="176" label="habitat">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="2182.3008" y="-1410.4918"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="177" label="território">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-760.2794" y="-1392.1423"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="178" label="fronteira">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-2795.936" y="-2645.4697"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="179" label="espaço">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-3853.1355" y="969.78815"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="180" label="composição">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="3428.3042" y="-2719.9343"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="181" label="arquitetura índigena">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-3548.6785" y="-3669.0728"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="182" label="metáfora">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1432.9192" y="4871.7617"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="183" label="constelação">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1675.1323" y="2778.4368"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="184" label="conjunto">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1156.6548" y="-4879.585"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="185" label="experimental">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-34.995453" y="-3476.1084"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="186" label="Kamaiurá">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1179.1324" y="-241.39201"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="187" label="jardim">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1436.8263" y="2077.956"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="188" label="luto">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="197.00716" y="-2908.452"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="189" label="vínculo">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-2322.4338" y="-391.57547"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="190" label="morte">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="2238.0142" y="2630.7585"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="191" label="espaço cemiterial">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-3444.2979" y="2128.2446"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="192" label="devaneios">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-756.96564" y="4966.418"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="193" label="experimentação">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1820.15" y="-3383.9062"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="194" label="criação">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-2972.965" y="1737.8666"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="195" label="imaginação">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="965.2724" y="-1918.0114"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="196" label="método">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1691.6204" y="-1944.3301"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="197" label="deslocamento">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="2549.6372" y="-57.853825"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="198" label="epistemologia">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-269.65015" y="4594.844"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="199" label="Matta-Clark">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="3807.644" y="-1569.8951"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="200" label="corte">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1035.1208" y="-4838.3706"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="201" label="favela">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="2929.525" y="-3677.048"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="202" label="modelos">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-2214.4395" y="-2400.5415"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="203" label="potencialidades">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-3345.6868" y="2753.3467"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="204" label="remanejamento">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="7.054637" y="5142.1846"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="205" label="audiovisual">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1007.05774" y="-828.3841"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="206" label="ruína">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1955.3617" y="-2521.4421"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="207" label="entre-espaço">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-2497.9739" y="1351.4994"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="208" label="vegetal">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-3979.8984" y="239.28905"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="209" label="mineral">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="3954.4597" y="4625.319"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="210" label="chuva">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-83.630905" y="3683.9365"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="211" label="temporalidade">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="3275.3145" y="-1271.3323"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="212" label="Manoel de Barros">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-2880.9287" y="-3249.6172"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="213" label="Tarkovsky">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-2406.0642" y="1968.299"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="214" label="espaço público">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="3933.3284" y="3513.6858"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="215" label="gênero">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1312.2106" y="-3728.958"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="216" label="mulher">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="3694.7349" y="2948.9646"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="217" label="manifestação">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-180.30959" y="1816.1423"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="218" label="acessiblidade universal">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="2436.7954" y="4706.0166"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="219" label="violência">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1717.1824" y="626.1679"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="220" label="intervenção">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="4180.6255" y="-2560.7974"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="221" label="sustentabilidade">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="899.6508" y="-287.32712"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="222" label="interação entre espaços construídos e naturais">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="5341.608" y="632.1218"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="223" label="neurociência na sustentabilidade">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="2334.247" y="530.8729"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="224" label="experiências vivenciadas nas cidades">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-3971.7058" y="-2608.0398"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="225" label="paisagem ecológica">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="3541.798" y="-721.3726"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="226" label="urbanismo sustentável">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1111.6797" y="-3148.477"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="227" label="cenários urbanos futuros">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="4703.9883" y="693.76733"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="228" label="cidades inteligentes">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="4113.862" y="4065.0212"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="229" label="inovação">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-399.9997" y="769.6979"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="230" label="complexidade">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="3092.7253" y="-2158.5845"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="231" label="representações">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-2886.3037" y="-1453.3602"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="232" label="desenho de arquitetura">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-570.8833" y="-305.52893"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="233" label="arquitetura colonial brasileira">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1666.415" y="487.5255"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="234" label="história do projeto">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="4645.478" y="1287.2479"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="235" label="arquitetura religiosa">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1945.5023" y="-1213.4379"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="236" label="arquitetura mineira">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-853.71814" y="-4135.1895"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="237" label="visualização da informação">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-3377.1177" y="-2453.9617"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="238" label="tesauro">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1132.8977" y="-858.3541"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="239" label="ambiente colaborativo">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="772.31287" y="-4402.536"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="240" label="vocabulário controlado">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-2953.7163" y="4071.047"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="241" label="indexação de imagens">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-4438.827" y="-1615.6869"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="242" label="ambiente colaborativo web">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="4299.465" y="231.48674"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="243" label="imagens de arquitetura">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="3854.3357" y="-1996.6449"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="244" label="recuperação da informação">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="2243.7012" y="-586.02026"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="245" label="informação iconográfica">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-2145.908" y="3168.4077"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="246" label="cidades digitais">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="635.9147" y="-2432.1812"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="247" label="processos colaborativos">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-973.43555" y="3602.0186"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="248" label="metadesign">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="2.9658325" y="1234.104"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="249" label="cidade distribuída">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="2971.0256" y="-499.7267"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="250" label="poder público">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="3308.465" y="902.7767"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="251" label="políticas públicas">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-4317.1113" y="1369.2024"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="252" label="ética">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-546.6427" y="2513.4287"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+      <node id="253" label="ciência da informação">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1379.9275" y="-4310.6016"></viz:position>
+        <viz:color r="255" g="101" b="26"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="5566" source="1" target="2"></edge>
+      <edge id="5567" source="2" target="3"></edge>
+      <edge id="5568" source="3" target="4"></edge>
+      <edge id="5569" source="4" target="5"></edge>
+      <edge id="5570" source="5" target="6"></edge>
+      <edge id="5571" source="6" target="7"></edge>
+      <edge id="5572" source="7" target="8"></edge>
+      <edge id="5573" source="8" target="9"></edge>
+      <edge id="5574" source="8" target="99"></edge>
+      <edge id="5575" source="7" target="99"></edge>
+      <edge id="5576" source="9" target="1"></edge>
+      <edge id="5577" source="1" target="205"></edge>
+      <edge id="5578" source="2" target="27"></edge>
+      <edge id="5579" source="3" target="60"></edge>
+      <edge id="5580" source="10" target="11"></edge>
+      <edge id="5581" source="11" target="12"></edge>
+      <edge id="5582" source="12" target="13"></edge>
+      <edge id="5583" source="13" target="14"></edge>
+      <edge id="5584" source="14" target="15"></edge>
+      <edge id="5585" source="15" target="16"></edge>
+      <edge id="5586" source="16" target="17"></edge>
+      <edge id="5587" source="17" target="18"></edge>
+      <edge id="5588" source="18" target="19"></edge>
+      <edge id="5589" source="19" target="20"></edge>
+      <edge id="5590" source="20" target="10"></edge>
+      <edge id="5591" source="11" target="21"></edge>
+      <edge id="5592" source="11" target="54"></edge>
+      <edge id="5593" source="21" target="22"></edge>
+      <edge id="5594" source="22" target="23"></edge>
+      <edge id="5595" source="23" target="24"></edge>
+      <edge id="5596" source="24" target="21"></edge>
+      <edge id="5597" source="21" target="54"></edge>
+      <edge id="5598" source="21" target="123"></edge>
+      <edge id="5599" source="21" target="124"></edge>
+      <edge id="5600" source="23" target="169"></edge>
+      <edge id="5601" source="25" target="26"></edge>
+      <edge id="5602" source="26" target="27"></edge>
+      <edge id="5603" source="27" target="28"></edge>
+      <edge id="5604" source="28" target="29"></edge>
+      <edge id="5605" source="29" target="30"></edge>
+      <edge id="5606" source="30" target="31"></edge>
+      <edge id="5607" source="31" target="25"></edge>
+      <edge id="5608" source="28" target="134"></edge>
+      <edge id="5609" source="28" target="226"></edge>
+      <edge id="5610" source="30" target="123"></edge>
+      <edge id="5611" source="30" target="129"></edge>
+      <edge id="5612" source="30" target="131"></edge>
+      <edge id="5613" source="31" target="225"></edge>
+      <edge id="5614" source="32" target="33"></edge>
+      <edge id="5615" source="33" target="34"></edge>
+      <edge id="5616" source="34" target="35"></edge>
+      <edge id="5617" source="35" target="36"></edge>
+      <edge id="5618" source="36" target="37"></edge>
+      <edge id="5619" source="37" target="38"></edge>
+      <edge id="5620" source="38" target="39"></edge>
+      <edge id="5621" source="39" target="40"></edge>
+      <edge id="5622" source="40" target="41"></edge>
+      <edge id="5623" source="41" target="32"></edge>
+      <edge id="5624" source="32" target="99"></edge>
+      <edge id="5625" source="32" target="6"></edge>
+      <edge id="5626" source="32" target="7"></edge>
+      <edge id="5627" source="32" target="8"></edge>
+      <edge id="5628" source="32" target="9"></edge>
+      <edge id="5629" source="41" target="89"></edge>
+      <edge id="5630" source="41" target="106"></edge>
+      <edge id="5631" source="41" target="116"></edge>
+      <edge id="5632" source="42" target="43"></edge>
+      <edge id="5633" source="43" target="44"></edge>
+      <edge id="5634" source="44" target="45"></edge>
+      <edge id="5635" source="45" target="46"></edge>
+      <edge id="5636" source="46" target="47"></edge>
+      <edge id="5637" source="47" target="48"></edge>
+      <edge id="5638" source="48" target="49"></edge>
+      <edge id="5639" source="49" target="50"></edge>
+      <edge id="5640" source="50" target="51"></edge>
+      <edge id="5641" source="51" target="42"></edge>
+      <edge id="5642" source="42" target="165"></edge>
+      <edge id="5643" source="42" target="168"></edge>
+      <edge id="5644" source="43" target="165"></edge>
+      <edge id="5645" source="43" target="168"></edge>
+      <edge id="5646" source="50" target="5"></edge>
+      <edge id="5647" source="52" target="53"></edge>
+      <edge id="5648" source="53" target="54"></edge>
+      <edge id="5649" source="54" target="55"></edge>
+      <edge id="5650" source="55" target="56"></edge>
+      <edge id="5651" source="56" target="57"></edge>
+      <edge id="5652" source="57" target="58"></edge>
+      <edge id="5653" source="58" target="59"></edge>
+      <edge id="5654" source="59" target="60"></edge>
+      <edge id="5655" source="60" target="52"></edge>
+      <edge id="5656" source="54" target="120"></edge>
+      <edge id="5657" source="54" target="123"></edge>
+      <edge id="5658" source="54" target="124"></edge>
+      <edge id="5659" source="61" target="62"></edge>
+      <edge id="5660" source="62" target="63"></edge>
+      <edge id="5661" source="63" target="64"></edge>
+      <edge id="5662" source="64" target="65"></edge>
+      <edge id="5663" source="65" target="66"></edge>
+      <edge id="5664" source="66" target="67"></edge>
+      <edge id="5665" source="67" target="68"></edge>
+      <edge id="5666" source="68" target="61"></edge>
+      <edge id="5667" source="62" target="32"></edge>
+      <edge id="5668" source="62" target="91" weight="2.0"></edge>
+      <edge id="5669" source="62" target="169"></edge>
+      <edge id="5670" source="62" target="99"></edge>
+      <edge id="5671" source="62" target="6"></edge>
+      <edge id="5672" source="62" target="7"></edge>
+      <edge id="5673" source="62" target="8"></edge>
+      <edge id="5674" source="62" target="9"></edge>
+      <edge id="5675" source="62" target="95"></edge>
+      <edge id="5676" source="62" target="79"></edge>
+      <edge id="5677" source="62" target="51"></edge>
+      <edge id="5678" source="62" target="23"></edge>
+      <edge id="5679" source="62" target="242"></edge>
+      <edge id="5680" source="65" target="117"></edge>
+      <edge id="5681" source="65" target="232"></edge>
+      <edge id="5682" source="66" target="88"></edge>
+      <edge id="5683" source="66" target="89"></edge>
+      <edge id="5684" source="66" target="91"></edge>
+      <edge id="5686" source="66" target="93"></edge>
+      <edge id="5687" source="66" target="105"></edge>
+      <edge id="5688" source="66" target="116"></edge>
+      <edge id="5689" source="66" target="139"></edge>
+      <edge id="5690" source="68" target="88"></edge>
+      <edge id="5691" source="68" target="89"></edge>
+      <edge id="5692" source="68" target="91"></edge>
+      <edge id="5693" source="69" target="70"></edge>
+      <edge id="5694" source="70" target="71"></edge>
+      <edge id="5695" source="71" target="72"></edge>
+      <edge id="5696" source="72" target="73"></edge>
+      <edge id="5697" source="73" target="74"></edge>
+      <edge id="5698" source="74" target="75"></edge>
+      <edge id="5699" source="75" target="76"></edge>
+      <edge id="5700" source="76" target="77"></edge>
+      <edge id="5701" source="77" target="78"></edge>
+      <edge id="5702" source="78" target="69"></edge>
+      <edge id="5703" source="69" target="88"></edge>
+      <edge id="5704" source="69" target="89"></edge>
+      <edge id="5705" source="69" target="93"></edge>
+      <edge id="5706" source="69" target="105"></edge>
+      <edge id="5707" source="69" target="116"></edge>
+      <edge id="5708" source="71" target="78"></edge>
+      <edge id="5709" source="71" target="102"></edge>
+      <edge id="5710" source="71" target="237"></edge>
+      <edge id="5711" source="71" target="244"></edge>
+      <edge id="5712" source="71" target="245"></edge>
+      <edge id="5713" source="71" target="253"></edge>
+      <edge id="5714" source="71" target="99"></edge>
+      <edge id="5715" source="71" target="165"></edge>
+      <edge id="5716" source="71" target="42"></edge>
+      <edge id="5717" source="71" target="43"></edge>
+      <edge id="5718" source="71" target="44"></edge>
+      <edge id="5719" source="74" target="88"></edge>
+      <edge id="5720" source="74" target="242"></edge>
+      <edge id="5722" source="72" target="242"></edge>
+      <edge id="5723" source="78" target="99"></edge>
+      <edge id="5724" source="78" target="50"></edge>
+      <edge id="5725" source="78" target="5"></edge>
+      <edge id="5726" source="78" target="103"></edge>
+      <edge id="5727" source="79" target="80"></edge>
+      <edge id="5728" source="80" target="81"></edge>
+      <edge id="5729" source="81" target="82"></edge>
+      <edge id="5730" source="82" target="83"></edge>
+      <edge id="5731" source="83" target="84"></edge>
+      <edge id="5732" source="84" target="85"></edge>
+      <edge id="5733" source="85" target="86"></edge>
+      <edge id="5734" source="86" target="87"></edge>
+      <edge id="5735" source="87" target="79"></edge>
+      <edge id="5736" source="79" target="62"></edge>
+      <edge id="5737" source="84" target="16"></edge>
+      <edge id="5738" source="84" target="88"></edge>
+      <edge id="5739" source="87" target="88"></edge>
+      <edge id="5740" source="82" target="88"></edge>
+      <edge id="5741" source="83" target="88"></edge>
+      <edge id="5742" source="81" target="88"></edge>
+      <edge id="5743" source="88" target="89" weight="2.0"></edge>
+      <edge id="5744" source="89" target="90" weight="2.0"></edge>
+      <edge id="5747" source="90" target="91"></edge>
+      <edge id="5748" source="91" target="92"></edge>
+      <edge id="5749" source="92" target="93"></edge>
+      <edge id="5750" source="93" target="94"></edge>
+      <edge id="5751" source="94" target="88"></edge>
+      <edge id="5752" source="95" target="96"></edge>
+      <edge id="5753" source="96" target="97"></edge>
+      <edge id="5754" source="97" target="98"></edge>
+      <edge id="5755" source="98" target="99"></edge>
+      <edge id="5756" source="99" target="100"></edge>
+      <edge id="5757" source="100" target="101"></edge>
+      <edge id="5758" source="101" target="102"></edge>
+      <edge id="5759" source="102" target="103"></edge>
+      <edge id="5760" source="103" target="95"></edge>
+      <edge id="5761" source="95" target="165"></edge>
+      <edge id="5762" source="95" target="168"></edge>
+      <edge id="5763" source="100" target="4"></edge>
+      <edge id="5764" source="100" target="241"></edge>
+      <edge id="5765" source="99" target="50"></edge>
+      <edge id="5766" source="99" target="71"></edge>
+      <edge id="5767" source="99" target="78"></edge>
+      <edge id="5768" source="104" target="105"></edge>
+      <edge id="5769" source="105" target="106"></edge>
+      <edge id="5770" source="106" target="107"></edge>
+      <edge id="5771" source="107" target="104"></edge>
+      <edge id="5772" source="105" target="116"></edge>
+      <edge id="5773" source="105" target="139"></edge>
+      <edge id="5774" source="105" target="91"></edge>
+      <edge id="5775" source="107" target="117"></edge>
+      <edge id="5776" source="107" target="232"></edge>
+      <edge id="5777" source="107" target="65"></edge>
+      <edge id="5778" source="104" target="116"></edge>
+      <edge id="5779" source="104" target="159"></edge>
+      <edge id="5780" source="104" target="234"></edge>
+      <edge id="5781" source="108" target="109"></edge>
+      <edge id="5782" source="109" target="110"></edge>
+      <edge id="5783" source="110" target="111"></edge>
+      <edge id="5784" source="111" target="112"></edge>
+      <edge id="5785" source="112" target="113"></edge>
+      <edge id="5786" source="113" target="114"></edge>
+      <edge id="5787" source="114" target="115"></edge>
+      <edge id="5788" source="115" target="108"></edge>
+      <edge id="5789" source="113" target="181"></edge>
+      <edge id="5790" source="111" target="224"></edge>
+      <edge id="5791" source="224" target="228" weight="2.0"></edge>
+      <edge id="5792" source="111" target="228"></edge>
+      <edge id="5793" source="111" target="246"></edge>
+      <edge id="5794" source="224" target="246" weight="2.0"></edge>
+      <edge id="5795" source="111" target="249"></edge>
+      <edge id="5796" source="116" target="117"></edge>
+      <edge id="5797" source="117" target="118"></edge>
+      <edge id="5798" source="118" target="119"></edge>
+      <edge id="5799" source="119" target="120"></edge>
+      <edge id="5800" source="120" target="116"></edge>
+      <edge id="5801" source="116" target="105"></edge>
+      <edge id="5802" source="116" target="93"></edge>
+      <edge id="5803" source="116" target="91"></edge>
+      <edge id="5804" source="116" target="89"></edge>
+      <edge id="5805" source="116" target="88"></edge>
+      <edge id="5806" source="117" target="11"></edge>
+      <edge id="5807" source="117" target="63"></edge>
+      <edge id="5808" source="119" target="138"></edge>
+      <edge id="5809" source="120" target="121"></edge>
+      <edge id="5810" source="120" target="123"></edge>
+      <edge id="5811" source="120" target="124" weight="2.0"></edge>
+      <edge id="5813" source="120" target="133"></edge>
+      <edge id="5814" source="120" target="139"></edge>
+      <edge id="5815" source="120" target="181"></edge>
+      <edge id="5816" source="120" target="232"></edge>
+      <edge id="5817" source="120" target="233"></edge>
+      <edge id="5818" source="120" target="235"></edge>
+      <edge id="5819" source="120" target="236"></edge>
+      <edge id="5820" source="120" target="243"></edge>
+      <edge id="5821" source="121" target="122"></edge>
+      <edge id="5822" source="122" target="123"></edge>
+      <edge id="5823" source="123" target="124"></edge>
+      <edge id="5824" source="124" target="125"></edge>
+      <edge id="5825" source="125" target="126"></edge>
+      <edge id="5826" source="126" target="127"></edge>
+      <edge id="5827" source="127" target="121"></edge>
+      <edge id="5828" source="121" target="232"></edge>
+      <edge id="5829" source="121" target="233"></edge>
+      <edge id="5830" source="121" target="243"></edge>
+      <edge id="5831" source="121" target="22"></edge>
+      <edge id="5832" source="122" target="127"></edge>
+      <edge id="5833" source="122" target="96"></edge>
+      <edge id="5834" source="123" target="129"></edge>
+      <edge id="5835" source="123" target="131"></edge>
+      <edge id="5836" source="123" target="30"></edge>
+      <edge id="5837" source="128" target="129"></edge>
+      <edge id="5838" source="129" target="130"></edge>
+      <edge id="5839" source="130" target="131"></edge>
+      <edge id="5840" source="131" target="132"></edge>
+      <edge id="5841" source="132" target="133"></edge>
+      <edge id="5842" source="133" target="134"></edge>
+      <edge id="5843" source="134" target="128"></edge>
+      <edge id="5844" source="131" target="30"></edge>
+      <edge id="5845" source="131" target="123"></edge>
+      <edge id="5846" source="134" target="226"></edge>
+      <edge id="5847" source="134" target="28"></edge>
+      <edge id="5848" source="135" target="136"></edge>
+      <edge id="5849" source="136" target="137"></edge>
+      <edge id="5850" source="137" target="138"></edge>
+      <edge id="5851" source="138" target="139"></edge>
+      <edge id="5852" source="139" target="140"></edge>
+      <edge id="5853" source="140" target="141"></edge>
+      <edge id="5854" source="141" target="135"></edge>
+      <edge id="5855" source="136" target="47"></edge>
+      <edge id="5856" source="137" target="150"></edge>
+      <edge id="5857" source="138" target="119"></edge>
+      <edge id="5858" source="142" target="143"></edge>
+      <edge id="5859" source="143" target="144"></edge>
+      <edge id="5860" source="144" target="145"></edge>
+      <edge id="5861" source="145" target="146"></edge>
+      <edge id="5862" source="146" target="147"></edge>
+      <edge id="5863" source="147" target="148"></edge>
+      <edge id="5864" source="148" target="149"></edge>
+      <edge id="5865" source="149" target="142"></edge>
+      <edge id="5866" source="146" target="46"></edge>
+      <edge id="5867" source="149" target="2"></edge>
+      <edge id="5868" source="149" target="122"></edge>
+      <edge id="5869" source="150" target="151"></edge>
+      <edge id="5870" source="151" target="152"></edge>
+      <edge id="5871" source="152" target="153"></edge>
+      <edge id="5872" source="153" target="154"></edge>
+      <edge id="5873" source="154" target="155"></edge>
+      <edge id="5874" source="155" target="156"></edge>
+      <edge id="5875" source="156" target="157"></edge>
+      <edge id="5876" source="157" target="158"></edge>
+      <edge id="5877" source="158" target="150"></edge>
+      <edge id="5878" source="150" target="137"></edge>
+      <edge id="5879" source="158" target="119"></edge>
+      <edge id="5880" source="158" target="138"></edge>
+      <edge id="5881" source="158" target="153"></edge>
+      <edge id="5882" source="159" target="160"></edge>
+      <edge id="5883" source="160" target="161"></edge>
+      <edge id="5884" source="161" target="162"></edge>
+      <edge id="5885" source="162" target="163"></edge>
+      <edge id="5886" source="163" target="159"></edge>
+      <edge id="5887" source="159" target="234"></edge>
+      <edge id="5888" source="159" target="12"></edge>
+      <edge id="5889" source="159" target="89"></edge>
+      <edge id="5890" source="159" target="106"></edge>
+      <edge id="5891" source="159" target="116"></edge>
+      <edge id="5892" source="163" target="232"></edge>
+      <edge id="5893" source="163" target="65"></edge>
+      <edge id="5894" source="164" target="165"></edge>
+      <edge id="5895" source="165" target="166"></edge>
+      <edge id="5896" source="166" target="167"></edge>
+      <edge id="5897" source="167" target="168"></edge>
+      <edge id="5898" source="168" target="169"></edge>
+      <edge id="5899" source="169" target="170"></edge>
+      <edge id="5900" source="170" target="171"></edge>
+      <edge id="5901" source="171" target="164"></edge>
+      <edge id="5902" source="165" target="168"></edge>
+      <edge id="5903" source="165" target="42"></edge>
+      <edge id="5904" source="165" target="43"></edge>
+      <edge id="5905" source="165" target="44"></edge>
+      <edge id="5906" source="172" target="173"></edge>
+      <edge id="5907" source="173" target="174"></edge>
+      <edge id="5908" source="174" target="175"></edge>
+      <edge id="5909" source="175" target="176"></edge>
+      <edge id="5910" source="176" target="177"></edge>
+      <edge id="5911" source="177" target="178"></edge>
+      <edge id="5912" source="178" target="179"></edge>
+      <edge id="5913" source="179" target="180"></edge>
+      <edge id="5914" source="180" target="172"></edge>
+      <edge id="5915" source="174" target="56"></edge>
+      <edge id="5916" source="179" target="191"></edge>
+      <edge id="5917" source="179" target="207"></edge>
+      <edge id="5918" source="179" target="214"></edge>
+      <edge id="5919" source="179" target="222"></edge>
+      <edge id="5920" source="181" target="182"></edge>
+      <edge id="5921" source="182" target="183"></edge>
+      <edge id="5922" source="183" target="184"></edge>
+      <edge id="5923" source="184" target="185"></edge>
+      <edge id="5924" source="185" target="186"></edge>
+      <edge id="5925" source="186" target="181"></edge>
+      <edge id="5926" source="181" target="186"></edge>
+      <edge id="5927" source="181" target="113"></edge>
+      <edge id="5928" source="186" target="109"></edge>
+      <edge id="5929" source="181" target="114"></edge>
+      <edge id="5930" source="183" target="115"></edge>
+      <edge id="5931" source="112" target="183"></edge>
+      <edge id="5932" source="187" target="188"></edge>
+      <edge id="5933" source="188" target="189"></edge>
+      <edge id="5934" source="189" target="190"></edge>
+      <edge id="5935" source="190" target="191"></edge>
+      <edge id="5936" source="191" target="187"></edge>
+      <edge id="5937" source="188" target="191"></edge>
+      <edge id="5938" source="190" target="188"></edge>
+      <edge id="5939" source="192" target="193"></edge>
+      <edge id="5940" source="193" target="194"></edge>
+      <edge id="5941" source="194" target="195"></edge>
+      <edge id="5942" source="195" target="196"></edge>
+      <edge id="5943" source="196" target="197"></edge>
+      <edge id="5944" source="197" target="198"></edge>
+      <edge id="5945" source="198" target="192"></edge>
+      <edge id="5946" source="195" target="30"></edge>
+      <edge id="5947" source="195" target="129"></edge>
+      <edge id="5948" source="195" target="131"></edge>
+      <edge id="5949" source="198" target="252"></edge>
+      <edge id="5950" source="199" target="200"></edge>
+      <edge id="5951" source="200" target="201"></edge>
+      <edge id="5952" source="201" target="202"></edge>
+      <edge id="5953" source="202" target="203"></edge>
+      <edge id="5954" source="203" target="204"></edge>
+      <edge id="5955" source="204" target="199"></edge>
+      <edge id="5956" source="201" target="243"></edge>
+      <edge id="5957" source="201" target="22"></edge>
+      <edge id="5958" source="201" target="54"></edge>
+      <edge id="5959" source="201" target="121"></edge>
+      <edge id="5960" source="201" target="123"></edge>
+      <edge id="5961" source="201" target="127"></edge>
+      <edge id="5962" source="205" target="206"></edge>
+      <edge id="5963" source="206" target="207"></edge>
+      <edge id="5964" source="207" target="208"></edge>
+      <edge id="5965" source="208" target="209"></edge>
+      <edge id="5966" source="209" target="210"></edge>
+      <edge id="5967" source="210" target="211"></edge>
+      <edge id="5968" source="211" target="212"></edge>
+      <edge id="5969" source="212" target="213"></edge>
+      <edge id="5970" source="213" target="205"></edge>
+      <edge id="5971" source="205" target="1"></edge>
+      <edge id="5972" source="206" target="3"></edge>
+      <edge id="5973" source="206" target="52"></edge>
+      <edge id="5974" source="206" target="58"></edge>
+      <edge id="5975" source="207" target="214"></edge>
+      <edge id="5976" source="207" target="222"></edge>
+      <edge id="5977" source="207" target="179"></edge>
+      <edge id="5978" source="214" target="215"></edge>
+      <edge id="5979" source="215" target="216"></edge>
+      <edge id="5980" source="216" target="217"></edge>
+      <edge id="5981" source="217" target="218"></edge>
+      <edge id="5982" source="218" target="219"></edge>
+      <edge id="5983" source="219" target="220"></edge>
+      <edge id="5984" source="220" target="214"></edge>
+      <edge id="5985" source="214" target="207" weight="2.0"></edge>
+      <edge id="5986" source="214" target="222"></edge>
+      <edge id="5988" source="215" target="172"></edge>
+      <edge id="5989" source="221" target="222"></edge>
+      <edge id="5990" source="222" target="223"></edge>
+      <edge id="5991" source="223" target="224"></edge>
+      <edge id="5992" source="224" target="225"></edge>
+      <edge id="5993" source="225" target="226"></edge>
+      <edge id="5994" source="226" target="221"></edge>
+      <edge id="5995" source="221" target="223"></edge>
+      <edge id="5998" source="225" target="26"></edge>
+      <edge id="5999" source="225" target="31"></edge>
+      <edge id="6000" source="226" target="28"></edge>
+      <edge id="6001" source="226" target="134"></edge>
+      <edge id="6002" source="227" target="228"></edge>
+      <edge id="6003" source="228" target="229"></edge>
+      <edge id="6004" source="229" target="230"></edge>
+      <edge id="6005" source="230" target="227"></edge>
+      <edge id="6006" source="228" target="32"></edge>
+      <edge id="6007" source="228" target="246"></edge>
+      <edge id="6008" source="227" target="32"></edge>
+      <edge id="6009" source="227" target="246"></edge>
+      <edge id="6010" source="231" target="232"></edge>
+      <edge id="6011" source="232" target="233"></edge>
+      <edge id="6012" source="233" target="234"></edge>
+      <edge id="6013" source="234" target="235"></edge>
+      <edge id="6014" source="235" target="236"></edge>
+      <edge id="6015" source="236" target="237"></edge>
+      <edge id="6016" source="237" target="231"></edge>
+      <edge id="6017" source="231" target="61"></edge>
+      <edge id="6018" source="231" target="11"></edge>
+      <edge id="6019" source="231" target="43"></edge>
+      <edge id="6020" source="231" target="63"></edge>
+      <edge id="6021" source="231" target="117"></edge>
+      <edge id="6022" source="232" target="65"></edge>
+      <edge id="6023" source="232" target="117"></edge>
+      <edge id="6024" source="232" target="54"></edge>
+      <edge id="6025" source="232" target="248"></edge>
+      <edge id="6026" source="40" target="107"></edge>
+      <edge id="6027" source="237" target="76"></edge>
+      <edge id="6028" source="237" target="244"></edge>
+      <edge id="6029" source="237" target="245"></edge>
+      <edge id="6030" source="237" target="253"></edge>
+      <edge id="6031" source="237" target="50"></edge>
+      <edge id="6032" source="237" target="71"></edge>
+      <edge id="6033" source="237" target="78"></edge>
+      <edge id="6034" source="238" target="239"></edge>
+      <edge id="6035" source="239" target="240"></edge>
+      <edge id="6036" source="240" target="241"></edge>
+      <edge id="6037" source="241" target="242"></edge>
+      <edge id="6038" source="242" target="243"></edge>
+      <edge id="6039" source="243" target="244"></edge>
+      <edge id="6040" source="244" target="245"></edge>
+      <edge id="6041" source="245" target="238"></edge>
+      <edge id="6042" source="238" target="102"></edge>
+      <edge id="6043" source="238" target="253"></edge>
+      <edge id="6044" source="238" target="50"></edge>
+      <edge id="6045" source="238" target="5"></edge>
+      <edge id="6046" source="239" target="73"></edge>
+      <edge id="6047" source="239" target="74"></edge>
+      <edge id="6048" source="239" target="76"></edge>
+      <edge id="6049" source="239" target="247"></edge>
+      <edge id="6050" source="243" target="127"></edge>
+      <edge id="6051" source="243" target="2"></edge>
+      <edge id="6052" source="243" target="149"></edge>
+      <edge id="6053" source="243" target="95"></edge>
+      <edge id="6054" source="243" target="96"></edge>
+      <edge id="6055" source="243" target="22"></edge>
+      <edge id="6056" source="243" target="54"></edge>
+      <edge id="6057" source="243" target="120"></edge>
+      <edge id="6058" source="243" target="121"></edge>
+      <edge id="6059" source="243" target="123"></edge>
+      <edge id="6060" source="243" target="139"></edge>
+      <edge id="6061" source="245" target="95"></edge>
+      <edge id="6062" source="245" target="96"></edge>
+      <edge id="6063" source="245" target="97"></edge>
+      <edge id="6064" source="245" target="98"></edge>
+      <edge id="6065" source="246" target="247"></edge>
+      <edge id="6066" source="247" target="248"></edge>
+      <edge id="6067" source="248" target="249"></edge>
+      <edge id="6068" source="249" target="250"></edge>
+      <edge id="6069" source="250" target="251"></edge>
+      <edge id="6070" source="251" target="246"></edge>
+      <edge id="6071" source="246" target="111"></edge>
+      <edge id="6072" source="246" target="224"></edge>
+      <edge id="6073" source="246" target="228"></edge>
+      <edge id="6074" source="246" target="249"></edge>
+      <edge id="6075" source="252" target="253"></edge>
+      <edge id="6076" source="253" target="252"></edge>
+      <edge id="6077" source="252" target="198"></edge>
+    </edges>
+  </graph>
+</gexf>
